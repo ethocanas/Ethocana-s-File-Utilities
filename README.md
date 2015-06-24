@@ -7,6 +7,6 @@ Planned
 *File listing- list the files or files and folders in a directory.
 *Color coded terminal interfaces for non-windows os.
 *Computer Cleaning methods
-*foledes contain x% of file types functionality. 
+*folders contain x% of file types functionality. 
 
 Note these are only base ideas and the program is still in development. Im currently workign on base functionality. 
